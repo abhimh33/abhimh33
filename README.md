@@ -36,8 +36,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhimh33&show_icons=true&theme=dark" />
-</p>
