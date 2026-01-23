@@ -16,7 +16,15 @@
   <a href="https://www.linkedin.com/in/abdulappa-m-4262a328a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/abhim_12" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+  </a>
 </p>
+
 
 ### Languages and Tools
 <p align="left">
