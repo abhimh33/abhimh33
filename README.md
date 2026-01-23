@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=abhimh33&label=Profile%20views&color=0e75b6&style=flat" alt="abhimh33" />
 </p>
 
-- 💻 Interested in **Full Stack Development, Automation & AI**
-- 🌱 Currently learning **MERN Stack & DSA**
-- 📫 How to reach me **abhimhundekal@gmail.com**
+💻 Interested in **Full Stack Development, Automation & AI**
+🌱 Currently learning **MERN Stack & DSA**
+📫 How to reach me **abhimhundekal@gmail.com**
 
 
 ### Connect with me
