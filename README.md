@@ -38,11 +38,11 @@
   </a>
 
   <!-- Frameworks -->
- <a href="https://nodejs.org/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
- </a>
+   <a href="https://nodejs.org/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-plain.svg" width="40"/>
   </a>
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
