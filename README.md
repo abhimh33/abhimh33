@@ -19,7 +19,7 @@
   &nbsp;&nbsp;
   <!-- LeetCode -->
   <a href="https://leetcode.com/abhim33/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="23"/>
   </a>
   &nbsp;&nbsp;
   <!-- Twitter -->
