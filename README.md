@@ -33,8 +33,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   </a>
 
   <!-- Frameworks -->
@@ -44,9 +44,7 @@
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  </a>
+
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
   </a>
@@ -61,8 +59,14 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  </a>
 
   <!-- DevOps / Tools -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   </a>
@@ -74,9 +78,6 @@
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   </a>
 </p>
 
