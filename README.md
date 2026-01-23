@@ -27,7 +27,7 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.svg" width="48"/>
   </a>
 </p>
 
