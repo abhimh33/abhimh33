@@ -13,15 +13,21 @@
 
 ### Connect with me
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdulappa-m-4262a328a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/abhim_12" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48"/>
   </a>
+  &nbsp;&nbsp;
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
   </a>
 </p>
 
