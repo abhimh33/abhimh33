@@ -81,7 +81,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35"/>
+    <img src="https://camo.githubusercontent.com/469427e31b606b70d28c773cc6f417926636a1fd81cd82891e87e6d1cd1fac80/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617773" width="35"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="37"/>
