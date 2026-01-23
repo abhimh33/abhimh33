@@ -15,19 +15,17 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abdulappa-m-4262a328a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="31"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="27"/>
   </a>
   &nbsp;&nbsp;
-
-  <!-- Twitter -->
-  <a href="https://twitter.com/abhim_12/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="31"/>
-  </a>
-  &nbsp;&nbsp;
-
   <!-- LeetCode -->
   <a href="https://leetcode.com/abhim33/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="31"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="27"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Twitter -->
+  <a href="https://twitter.com/abhim_12/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="27"/>
   </a>
 </p>
 
