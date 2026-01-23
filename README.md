@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhimh33&label=Profile%20views&color=0e75b6&style=flat" alt="abhimh33" />
 </p>
 
-
-- 💻 Interested in **Full Stack Development & AI**
+- 💻 Interested in **Full Stack Development, Automation & AI**
 - 🌱 Currently learning **MERN Stack & DSA**
 - 📫 How to reach me **abhimhundekal@gmail.com**
 
@@ -85,7 +84,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="37"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35"/>
