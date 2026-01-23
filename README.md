@@ -5,13 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=abhimh33&label=Profile%20views&color=0e75b6&style=flat" alt="abhimh33" />
 </p>
 
----
 
 - 💻 Interested in **Full Stack Development & AI**
 - 🌱 Currently learning **MERN Stack & DSA**
 - 📫 How to reach me **abhimhundekal@gmail.com**
 
----
 
 ### 🌐 Connect with me
 <p align="left">
@@ -19,8 +17,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -45,9 +41,6 @@
   <a href="https://react.dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   </a>
@@ -67,6 +60,9 @@
   </a>
 
   <!-- DevOps / Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
   </a>
@@ -76,11 +72,8 @@
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   </a>
 </p>
 
