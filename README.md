@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulappa</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack & AI Enthusiast</h3>
+<h3 align="center">Passionate Full Stack Developer & AI Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhimh33&label=Profile%20views&color=0e75b6&style=flat" alt="abhimh33" />
@@ -11,14 +11,14 @@
 - 📫 How to reach me **abhimhundekal@gmail.com**
 
 
-### 🌐 Connect with me
+### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulappa-m-4262a328a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 <p align="left">
   <!-- Languages -->
   <a href="https://www.cprogramming.com/" target="_blank">
