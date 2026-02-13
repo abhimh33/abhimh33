@@ -89,6 +89,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35"/>
   </a>
   <a href="https://helm.sh/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="35"/>
+  <img src="https://skillicons.dev/icons?i=helm" width="35"/>
 </a>
 </p>
